@@ -1,0 +1,122 @@
+*
+{
+
+    margin: 0;
+    padding: 0;
+    font-family: SF Pro Display;
+    box-sizing: border-box;
+
+}
+
+body
+{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container_01
+{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 980px;
+    height: 536px;
+
+}
+
+.container_01 p
+{
+
+    font-size: 24px;
+    
+}
+
+.logo
+{
+
+    margin-left: -32px;
+    height: 106px;
+}
+
+.container_02
+{
+
+    margin: 40px;
+}
+
+.container_03
+{
+
+    width: 396px;
+    height: 350px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1), 0 6px 14px rgba(0, 0, 0, .1);
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+.form
+{
+
+    text-align: center;
+
+}
+
+.form > div
+{
+
+    padding: 10px 0 10px 0;
+
+}
+
+.form input
+{
+
+    width: 364px;
+    height: 52px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-size: 12px;
+
+}
+
+.form .btn_01
+{
+
+    width: 364px;
+    height: 48px;
+    background-color: #1877f2;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    font-size: 20px;
+
+}
+
+.ahref
+{
+
+    text-decoration: none;
+    color: #1877f2;
+
+}
+
+.form .btn_02
+{
+
+    width: 364px;
+    height: 48px;
+    background-color: #42b72a;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    font-size: 20px;
+
+}
